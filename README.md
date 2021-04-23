@@ -76,3 +76,27 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [What Bitcoin Did](https://www.whatbitcoindid.com/) - Blog of accidental Bitcoin and Cryptocurrency investor, miner, blogger and podcaster.
  
 * [CryptoGround](https://www.cryptoground.com) - Get latest news related to Bitcoin, Ethereum and other cryptocurrencies.
+
+## News Aggregators
+
+* [CryptoControl](https://cryptocontrol.io/en/social) - CryptoControl aggregates news from many sources (Twitter, Reddit, Google Trends etc) and displays it in the Trello style.
+
+* [CryptoPanic](https://cryptopanic.com/) - CryptoPanic is news aggregator platform indicating impact on price and market for traders and cryptocurrency enthusiasts.
+
+* [ETHNews](https://www.ethnews.com) - ETHNews is emerging provider of Ethereum and Blockchain ecosystem news.
+
+* [Coin Spectator](https://coinspectator.com/) - Get the latest cryptocurrency, bitcoin & blockchain news from many news sources.
+
+* [CoinsCalendar](http://www.coinscalendar.com/) - CoinsCalendar displays all upcoming coins events and updates.
+
+* [CoinDar](https://coindar.org/) - Be first to know about coming cryptocurrency news, updates, hard forks, meetups, coins listing on exchanges and other important events.
+
+* [BTCnews](https://itunes.apple.com/app/btcnews-bitcoin-cryptocurrency/id946903421) - Mature cryptocurrency news and charts app for iOS.
+
+* [CryptoAudio](http://cryptoaud.io) - A tool that creates news summaries from various sources and reads them using a text-to-speech technology.
+
+* [CryptoFlash.io](https://cryptoflash.io) - Top 200+ cryptocurrencies news & rumors in real time!
+
+* [AmuletPlatform](https://amuletplatform.com/data/) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
+
+* [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
