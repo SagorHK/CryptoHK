@@ -5,17 +5,29 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 # Contents:
 
+
 * [Magazines and Blogs](#magazines-and-blogs)
+
+* [News Aggregators](#news-aggregators)
+ 
 * [Telegram Channels](#telegram-channels)
+ 
 * [Twitter Users Lists](#twitter-users-lists)
-* [News Aggregators](#news-aggregators)
+ 
 * [Exchanges](#exchanges)
+ 
 * [Wallets](#wallets)
+ 
 * [News Aggregators](#news-aggregators)
+ 
 * [Price Trackers](#price-trackers)
+ 
 * [ICO Trackers](#ico-trackers)
+ 
 * [YouTube Channels](#youtube-channels)
+ 
 * [Useful Tools](#useful-tools)
+ 
 * [Other](#other)
 
 
