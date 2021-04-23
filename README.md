@@ -17,9 +17,10 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Exchanges](#exchanges)
  
 * [Wallets](#wallets)
+
  
-* [News Aggregators](#news-aggregators)
- 
+
+
 * [Price Trackers](#price-trackers)
  
 * [ICO Trackers](#ico-trackers)
