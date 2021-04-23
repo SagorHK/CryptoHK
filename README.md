@@ -8,6 +8,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Magazines and Blogs](#magazines-and-blogs)
 * [Telegram Channels](#telegram-channels)
 * [Twitter Users Lists](#twitter-users-lists)
+* [News Aggregators](#news-aggregators)
 * [Exchanges](#exchanges)
 * [Wallets](#wallets)
 * [News Aggregators](#news-aggregators)
