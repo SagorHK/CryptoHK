@@ -163,7 +163,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
  
 
- 
+
 * [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 
 
