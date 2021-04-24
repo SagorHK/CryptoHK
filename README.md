@@ -33,8 +33,8 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 ## Magazines and Blogs
 
-* [CryptoHackers](https://cryptohackers.party/) - Cryptoworld superheroes interviews. Fascinating facts, teams insides and success stories.
- 
+
+
 * [CoinTelegraph](https://cointelegraph.com/) - The leading publication offering latest news, analysis, expert opinions, community commentaries. Founded in 2013.
  
 * [CoinDesk](https://www.coindesk.com/) - CoinDesk is the world leader in news and information on digital currencies. 17M mothly users.
