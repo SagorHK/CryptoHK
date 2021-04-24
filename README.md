@@ -16,7 +16,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
  
 * [Exchanges](#exchanges)
  
-* [Wallets](#wallets)
+
 
 
 
