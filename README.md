@@ -135,9 +135,9 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
  
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
- 
-* [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
- 
+
+
+
 * [Flippening Watch](https://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
  
 
