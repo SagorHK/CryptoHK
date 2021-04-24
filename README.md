@@ -150,15 +150,15 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
  
 * [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
  
-* [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency portfolio on the command line.
+
  
-* [ckandr](https://github.com/screwgoth/ckandr) - A command-line cryptocurrency price ticker specifically for popular Indian cryptocurrency exchanges.
+
  
-* [CoinAlyze](https://coinalyze.net) - Cryptocurrency real-time charts, price levels, statistics and candlestick patterns detection.
+
  
-* [Cryptomon](https://cryptomon.io) - Modern trading indicators and price predictions based on machine intelligence.
+
  
-* [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
+
  
 
 
