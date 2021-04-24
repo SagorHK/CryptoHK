@@ -10,7 +10,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [News Aggregators](#news-aggregators)
  
-* [Telegram Channel
+
  
 * [Twitter Users Lists](#twitter-users-lists)
  
@@ -18,7 +18,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
  
 * [Wallets](#wallets)
 
- 
+
 
 
 * [Price Trackers](#price-trackers)
