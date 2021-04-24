@@ -102,7 +102,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
 
-## Twitter Users ListsLists
+## Twitter Users Lists
 
 * [Elon Musk](https://mobile.twitter.com/elonmusk)- He is the founder, CEO, CTO, and chief designer of SpaceX; early stage investor, CEO, and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. A centibillionaire, Musk is one of the richest people in the world.
 
