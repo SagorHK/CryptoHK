@@ -160,8 +160,8 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
  
 * [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
  
-* [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
- 
+
+
 
 
 * [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
