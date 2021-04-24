@@ -139,6 +139,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
  
 * [Flippening Watch](https://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
+ 
 * [Coindex](https://itunes.apple.com/us/app/coindex/id1251487103) - Beautiful cryptocurrency price tracker for iOS.
  
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
