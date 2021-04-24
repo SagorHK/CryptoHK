@@ -101,3 +101,12 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [AmuletPlatform](https://amuletplatform.com/data/) - Real-time sentiment analysis of 24M+ posts about crypto from Reddit and Bitcointalk
 
 * [InTokenWeTrust](https://intwt.com/) - News aggregator platform with all media and blogs about cryptocurrency.
+
+## Twitter Users ListsLists
+
+* [Elon Musk](https://mobile.twitter.com/elonmusk)- He is the founder, CEO, CTO, and chief designer of SpaceX; early stage investor, CEO, and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink; and co-founder and initial co-chairman of OpenAI. A centibillionaire, Musk is one of the richest people in the world.
+
+* [Vitalik Buterin](https://mobile.twitter.com/VitalikButerin) - programmer and writer who is best known as one of the co-founders of Ethereum. Buterin became involved with cryptocurrency early in its inception, co-founding Bitcoin Magazine in 2011.Buterin launched Ethereum.
+
+* [Changpeng Zhao CZ](https://mobile.twitter.com/cz_binance) - CZ" is a Chinese-Canadian business executive, who is the founder and CEO of Binance, the world's largest cryptocurrency exchange by trading volume, as of April 2018.Zhao was previously a member of the team that developed Blockchain.info and also served as chief technology officer of OKCoin.
+
