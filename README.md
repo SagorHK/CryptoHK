@@ -24,7 +24,6 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
  
 
- 
 
  
 
@@ -224,6 +223,32 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
  
 
+ ## Other
+
+* [CoinPride Newsletter](https://coinpride.com/) - The most important crypto news and events. One handcrafted email per week.
+ 
+* [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page) - Technical specifications of the protocol as well as more basic information about how to buy, sell or use bitcoins.
+
+
+* [Blockchain Demo](https://blockchaindemo.io/) - This interactive demo will guide you through each component of blockchain step-by-step.
+ 
+* [MyCryptoGuide](https://mycrypto.guide/) - The guide is meant to serve as both easy-to-understand introduction to the world of cryptocurrencies.
+ 
+* [Bad Bitcoin](https://www.badbitcoin.org) - List of known scams, HYIPs and Ponzi schemes.
+ 
+* [EthList](https://github.com/Scanate/EthList) - The Crowdsourced Ethereum Reading List.
+ 
+* [Satoshi Nakamoto WhitePaper](https://bitcoin.org/bitcoin.pdf) - Bitcoin fundamentals described by the creator.
+ 
+* [Bitcoin Developer Docs](https://bitcoin.org/en/developer-guide) - Detailed information about the Bitcoin protocol and related specifications.
+ 
+* [Bitcoin Forks](https://mapofcoins.com/bitcoin) - All bitcoin forks visualisation.
+ 
+* [Coin Demo](https://coindemo.io) - Visual demonstration of how bitcoin transactions work.
+ 
+* [Rhymes With Fiat](https://www.rhymeswithfiat.com) - Bitcoin webcomic (with educational notes).
+ 
+* [Whitepaper.io](https://whitepaper.io) - All whitepapers in one place.
  
 
  
