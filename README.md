@@ -10,26 +10,26 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [News Aggregators](#news-aggregators)
  
-
- 
 * [Twitter Users Lists](#twitter-users-lists)
  
 * [Exchanges](#exchanges)
  
-
-
-
-
-
 * [Price Trackers](#price-trackers)
  
-* [ICO Trackers](#ico-trackers)
- 
 * [YouTube Channels](#youtube-channels)
- 
+
 * [Useful Tools](#useful-tools)
- 
+
 * [Other](#other)
+
+ 
+
+ 
+
+ 
+
+ 
+
 
 
 ## Magazines and Blogs
@@ -130,69 +130,41 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 
 ## Price Trackers
+
 * [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users
  
 * [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
  
 * [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
 
-
-
 * [Flippening Watch](https://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
- 
-
 
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
  
 * [CryptTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
- 
+
 * [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
  
 * [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
 
 * [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 
+ 
 
-## ICO Trackers
-* [ICOtracker](https://icotracker.net) - Very informative and trusted tracker.
+
  
-* [The ICO digest](https://theicodigest.com) - Weekly ICO digest.
+
  
-* [TokenData](https://www.tokendata.io/) - See ICO stats: ROI, total investments, status and other information.
+
  
-* [CoinSchedule](https://www.coinschedule.com) - Live Token Sales & ICOs.
+
  
-* [ICO Bazaar](https://icobazaar.com) - Informative website + ICOs alerts.
+
  
-* [Picoloresearch](https://picoloresearch.com/) - Independent research on blockchain startups and ICOs.
- 
-* [Smith + Crown ICO list](https://www.smithandcrown.com/icos/) - Curated list of ongoing and upcoming token sales. Have some research tiers.
- 
-* [ICORating](https://icorating.com/) - ICOrating specializes in evaluating companies with planned ICO.
- 
-* [ICO Alert](https://www.icoalert.com/) - Source for analysis of active and upcoming Initial Coin Offerings.
- 
-* [TokenMarket](https://tokenmarket.net) - TokenMarket is marketplace for tokens, digital assets and blockchain based investing.
- 
-* [ICOdrops](https://icodrops.com/) - Constantly updating kanban style ICO board.
- 
-* [ICO Whitelists](https://icowhitelists.com) - Articles on ICOs. Also tracks growth of 200+ Telegram groups for ICOs.
- 
-* [ICOAlarm](http://www.icoalarmapp.com/) - ICO discovery, analysis, and alerts crossplatform mobile application.
- 
-* [ICO Toplist](https://icotoplist.com) - List, review and rate all ICOs: Past, Active and Upcoming ones.
+
+
+
+
+
+
 
