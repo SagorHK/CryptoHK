@@ -162,7 +162,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
  
 * [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
  
-* [Owl Crypto](https://owlcrypto.com) - Cryptocurrency percentage change monitor.
+
  
 * [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 
