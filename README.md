@@ -114,6 +114,12 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [David Wu](https://mobile.twitter.com/dw_davidwu) - CEO, TAU Coins Community, enabling phones to form up server-less independent blockchains for coins circulation and messaging, for payment and funding business.
 
+* [Elja𝕭oom](https://mobile.twitter.com/Eljaboom) - CEO of http://Ajoobz.com 
+
+* [lyu_johnny](https://mobile.twitter.com/lyu_johnny) - CEO at KuCoin @kucoincom People's Exchange
+
+
+
 
 
 
