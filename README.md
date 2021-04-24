@@ -10,7 +10,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [News Aggregators](#news-aggregators)
  
-* [Telegram Channels](#telegram-channels)
+* [Telegram Channel
  
 * [Twitter Users Lists](#twitter-users-lists)
  
