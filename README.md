@@ -150,7 +150,37 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 
  
+## YouTube Channels
 
+* [The Cryptoverse](https://www.youtube.com/channel/UCLnQ34ZBSjy2JQjeRudFEDw) - Your cryptocurrency news dose.
+ 
+* [World Crypto Network](https://www.youtube.com/user/WorldCryptoNetwork) - Informative news digests.
+ 
+* [Crypt0](https://www.youtube.com/user/obham001) - Omar is one of the most popular crypto bloggers. He creates fascinating interviews.
+ 
+* [Ameer Rosic](https://www.youtube.com/user/AmeerRosic) - News, interviews, podcasts and reviews.
+ 
+* [aantonop](https://www.youtube.com/user/aantonop/) - Presentations, discussions, QA by Andreas, the author of "Mastering Bitcoin".
+ 
+* [CoinSummit](https://www.youtube.com/channel/UCr4QRCZDXrCecaV2w4nuLeQ/) - CoinSummit records: startups showcases, discussions and presentations.
+ 
+* [BitcoinFilm](https://www.youtube.com/channel/UC42Y8ajCzQ_rjS_wVTamglQ) - Short films about people using Bitcoin.
+ 
+* [Bitcoin and Cryptocurrency Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ/videos) - Bitcoin and Cryptocurrency Technologies course. 12 videos, each 45-90 mins.
+ 
+* [CryptoPortfolio](https://www.youtube.com/channel/UCI9POyyP-f93JHfkhr2ma2g/) - YouTube channel reviewing ICOs and various cryptocurrencies.
+ 
+* [CryptoBud](https://www.youtube.com/channel/UCAEktd4wejD_N4aPyDPD3zw) - Technical and fundamental analysis on how to invest in cryptocurrencies.
+ 
+* [Cryptotips](https://www.youtube.com/cryptotips) - Heidi provides you with insights into projects, ICOs and ecosystem, as well as creating videos for beginners.
+ 
+* [EtherCasts](https://www.youtube.com/user/EtherCasts) - Ancient Ethereum news, reviews and interviews channel.
+ 
+* [Bitcoin Playlist](https://www.youtube.com/playlist?list=PL05dEp7goGNiKWYdiE4nurEPFMmF9XpzF) - Great list of 55 Bitcoin talks.
+ 
+* [Decentralized TV](https://www.youtube.com/channel/UCueLJ4vLHTwMpYILmdBjRlg) - Blockchain, Bitcoin, and Cryptocurrency News, Culture, and Entertainment.
+ 
+* [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA/) - Crypto news on (mostly) daily basis.
 
  
 
