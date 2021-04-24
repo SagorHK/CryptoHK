@@ -118,7 +118,15 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [lyu_johnny](https://mobile.twitter.com/lyu_johnny) - CEO at KuCoin @kucoincom People's Exchange
 
+## Exchanges
 
+* [Binance](https://www.binance.com) - Modern exchange with the lowest fees and it's own token.
+
+* [Kucoin](https://www.kucoin.com) - Modern. Evolving really fast. Has it's own token.
+
+* [Bittrex](https://www.bittrex.com) - USA. Trust: 3.8/5. Many altcoins.
+ 
+* [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
 
 
 
