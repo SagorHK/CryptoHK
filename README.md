@@ -129,7 +129,41 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [CEX.IO](https://cex.io/) - UK. Trust: 5/5. Fiat. Newbie friendly.
 
 
-
+## Price Trackers
+* [CoinMarketcap](https://coinmarketcap.com/) - Old and cool. All coins prices, graphs, market caps. API, widgets, tools. Used by 90M monthly users
+ 
+* [Coincap](http://coincap.io/) - CoinCap tracks market data for hundreds of cryptocurrencies in real-time. They also have very useful mobile app.
+ 
+* [Cryptowatch](https://cryptowat.ch) - Live price charts and market data for Bitcoin, Ethereum, and more. Many exchanges, flexible settings and cool API.
+ 
+* [Bitcoinwisdom](https://bitcoinwisdom.com) - Live Bitcoin/Litecoin charts with EMA, MACD and other indicators. Support many exchanges (Bitfinex, Bitstamp, Coinbase, Bittrex, Poloniex etc).
+ 
+* [Flippening Watch](https://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
+* [Coindex](https://itunes.apple.com/us/app/coindex/id1251487103) - Beautiful cryptocurrency price tracker for iOS.
+ 
+* [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
+ 
+* [CryptTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
+ 
+* [Coin Daily Update](https://coindailyupdate.com) - Daily email update with price changes of customizable coins.
+ 
+* [Coindera](https://coindera.com/) - Real time cryptocurrency price alerts for 2,000+ coins on 25+ exchanges.
+ 
+* [Cryptocurrency CLI](https://github.com/christ0ph3r/cryptocurrency-cli) - Cryptocurrency portfolio on the command line.
+ 
+* [ckandr](https://github.com/screwgoth/ckandr) - A command-line cryptocurrency price ticker specifically for popular Indian cryptocurrency exchanges.
+ 
+* [CoinAlyze](https://coinalyze.net) - Cryptocurrency real-time charts, price levels, statistics and candlestick patterns detection.
+ 
+* [Cryptomon](https://cryptomon.io) - Modern trading indicators and price predictions based on machine intelligence.
+ 
+* [MoonHash](https://chrome.google.com/webstore/detail/%E2%97%90-moonhash-crypto-portfol/clbooohlcomlhgkfencdenfiadhkefff?hl=en-US) - Cryptocurrency portfolio, price monitoring and telegram monitoring Google Chrome Extension
+ 
+* [Coincall](https://coincall.io) - Simplest web-based crypto price and portfolio tracker.
+ 
+* [Owl Crypto](https://owlcrypto.com) - Cryptocurrency percentage change monitor.
+ 
+* [Coin Market Manager](https://www.coinmarketman.com) - Smart, accurate, Portfolio tracking. Realtime Breakeven and Profit Loss features.
 
 
 
