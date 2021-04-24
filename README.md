@@ -110,3 +110,12 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [Changpeng Zhao CZ](https://mobile.twitter.com/cz_binance) - CZ" is a Chinese-Canadian business executive, who is the founder and CEO of Binance, the world's largest cryptocurrency exchange by trading volume, as of April 2018.Zhao was previously a member of the team that developed Blockchain.info and also served as chief technology officer of OKCoin.
 
+* [Joseph Lubin](https://mobile.twitter.com/ethereumJoseph) - Co-founder of 
+
+@ethereum
+
+ & Founder of 
+
+@ConsenSys
+
+. Building the decentralized Web 3.0 on #Ethereum.
