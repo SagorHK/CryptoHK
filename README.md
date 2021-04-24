@@ -140,8 +140,8 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
  
 * [Flippening Watch](https://www.flippening.watch/) - When will Ethereum overtake Bitcoin and become the most important cryptocurrency?
  
-* [Coindex](https://itunes.apple.com/us/app/coindex/id1251487103) - Beautiful cryptocurrency price tracker for iOS.
- 
+
+
 * [WorldCoinIndex](https://www.worldcoinindex.com/) - Realtime cryptocurrency price monitoring tool. Lots of altcoins and many fiat currencies.
  
 * [CryptTrader](https://cryptrader.com/) - Cryptocurrency trading platform. Charts, news and trollbox. Add widgets to customize the look.
