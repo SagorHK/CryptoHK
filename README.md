@@ -1,7 +1,7 @@
 # CryptoHK
 Curated Collection of Blockchain &amp; Cryptocurrency links
 
-[<img src="https://github.com/SagorSrEvan/CryptoHK/blob/32ede9d473939a2e63d00a3932b58064b4934862/CryptoHK.png?raw=true" width="500">](https://github.com/SagorSrEvan/CryptoHK)
+[<img src="https://github.com/SagorSrEvan/CryptoHK/blob/32ede9d473939a2e63d00a3932b58064b4934862/CryptoHK.png?raw=true" width="500">]
 
 # Contents:
 
@@ -112,7 +112,7 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 
 * [Joseph Lubin](https://mobile.twitter.com/ethereumJoseph) - Co-founder of @ethereum & Founder of @ConsenSys Building the decentralized Web 3.0 on #Ethereum.
 
-
+* [David Wu](https://mobile.twitter.com/dw_davidwu) - CEO, TAU Coins Community, enabling phones to form up server-less independent blockchains for coins circulation and messaging, for payment and funding business.
 
 
 
