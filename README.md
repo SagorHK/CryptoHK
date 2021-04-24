@@ -183,7 +183,45 @@ Curated Collection of Blockchain &amp; Cryptocurrency links
 * [Crypto Daily](https://www.youtube.com/channel/UC67AEEecqFEc92nVvcqKdhA/) - Crypto news on (mostly) daily basis.
 
  
+## Useful Tools
 
+* [QR Code Generator](https://bitcoinqrcodegenerator.win/) - With this free tool you can instantly generate QR code for your Bitcoin/Litecoin/Ethereum/Dogecoin address.
+ 
+* [Block Explorer](https://tradeblock.com/bitcoin/) - Discover the Bitcoin blockchain blocks online. Includes fees and miners information.
+ 
+* [EtherScan](https://etherscan.io) - Block Explorer and Analytics Platform for Ethereum.
+ 
+* [ETH Gas Station](https://ethgasstation.info) - Consumer oriented metrics for the Ethereum Gas Market.
+ 
+* [Metamask](https://metamask.io/) - Run Ethereum dApps right in your browser without running full node.
+ 
+* [ATM Map](https://bitcoinatmmap.com/) - Find Bitcoin ATM’s in your country.
+ 
+* [Statoshi](https://statoshi.info) - Realtime Bitcoin node stats. Made by Jameson Lopp.
+ 
+* [RSIhunter](https://rsihunter.com/) - Find "oversold" and "overbought" cryptocurrencies.
+ 
+* [CryptoFinance](https://cryptofinance.ai/) - Google Sheets add-on to get cryptocurrencies rate in spreadsheets.
+ 
+* [Vanitygen Plus](https://github.com/exploitagency/vanitygen-plus) - Generate custom key addresses for 90+ coins.
+ 
+* [CoinPop.me](https://coinpop.me/) - Create shareable page for all your cryptocurrency donation addresses.
+ 
+* [If You Had Bought Crypto](https://ifyouhadboughtcrypto.com) - How rich would you be if you had invested in your favourite Cryptocurrency?
+ 
+* [Vaulty.io](https://vaulty.io) - Accept any cryptocurrency for your website, blog, or for general personal use with just one link.
+ 
+* [Bitcoin Flip Trading simulator](https://bitcoinflip.app/) - 101% realistic and fun crypto trading Simulator for Beginners!
+ 
+* [QWallet](https://qwallet.io/) - Search & view the value of any Ethereum wallet, create your own token portfolio.
+ 
+* [Ethplorer](https://ethplorer.io) - Block explorer and analytics platform for Ethereum.
+ 
+* [EtherChain](https://etherchain.org) - Ethereum Blockchain Explorer.
+ 
+* [Trivial.co](https://trivial.co) - Network explorer and analytics platform for Ethereum and ERC-20 tokens.
+ 
+* [HappyDApps](https://happydapps.net) - Web 3.0 browser compatibility check.
  
 
  
